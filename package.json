@@ -1,7 +1,7 @@
 {
   "name": "index-generator",
   "main": "./lib/index-generator",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Generate an \"index.js\" file which exports all the files and directories present on a directory.",
   "keywords": [
     "index",
