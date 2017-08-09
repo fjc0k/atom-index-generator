@@ -1,0 +1,14 @@
+{
+  "context-menu": {
+    ".tree-view .header": [
+      {
+        "label": "Generate index.js (import)",
+        "command": "index-generator:generate-index-import"
+      },
+      {
+        "label": "Generate index.js (require)",
+        "command": "index-generator:generate-index-require"
+      }
+    ]
+  }
+}

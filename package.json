@@ -1,0 +1,21 @@
+{
+  "name": "index-generator",
+  "main": "./lib/index-generator",
+  "version": "0.1.0",
+  "description": "Generate an \"index.js\" file which exports all the files and directories present on a directory.",
+  "keywords": [
+    "index",
+    "generator"
+  ],
+  "repository": "https://github.com/fjc0k/atom-index-generator",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "camelcase": "^4.1.0",
+    "micromatch": "^3.0.4",
+    "parse-filepath": "^1.0.1",
+    "uppercamelcase": "^3.0.0"
+  }
+}
