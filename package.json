@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "camelcase": "^4.1.0",
+    "fs-extra": "^4.0.2",
     "micromatch": "^3.0.4",
     "parse-filepath": "^1.0.1",
     "uppercamelcase": "^3.0.0"
